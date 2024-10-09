@@ -30,9 +30,8 @@
 <div>
 
 ##### GitHub status
-  
-![Dadajia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dadajia-byte&show_icons=true&theme=cobalt&hide=issues&line_height=24)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dadajia-byte&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&card_width=360)
+![Dadajia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dadajia-byte&show_icons=true&theme=shadow_green&hide=issues&line_height=24)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dadajia-byte&layout=compact&show_icons=truee&include_all_commits=true&theme=vue&card_width=360)
 <!--
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=Dadajia-byte&theme=github)
 ![](https://github-readme-stats.vercel.app/api?username=Dadajia-byte&show_icons=truee&include_all_commits=true&theme=onedark&hide=prs) 
