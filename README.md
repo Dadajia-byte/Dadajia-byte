@@ -30,14 +30,9 @@
 <div>
 
 ##### GitHub status
-![Dadajia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dadajia-byte&show_icons=true&theme=shadow_green&hide=issues&line_height=24)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dadajia-byte&layout=compact&show_icons=truee&include_all_commits=true&theme=shadow_green&card_width=360)
-<!--
-![](https://github-readme-activity-graph.cyclic.app/graph?username=Dadajia-byte&theme=github)
-![](https://github-readme-stats.vercel.app/api?username=Dadajia-byte&show_icons=truee&include_all_commits=true&theme=onedark&hide=prs) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dadajia-byte&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&card_width=230)
--->
-<!-- ======================================= -->
+![Dadajia's GitHub stats](https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=Dadajia-byte&show_icons=true&theme=shadow_green&hide=issues&line_height=24)
+![Top Langs](https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=Dadajia-byte&layout=compact&show_icons=true&include_all_commits=true&theme=shadow_green&card_width=360)
+
 
 
 ### 🎯 Progress
